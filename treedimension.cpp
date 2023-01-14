@@ -1,5 +1,5 @@
-//{ Driver Code Starts
-// ques link
+//{ Driver Code Starts 
+// quiz link
 // https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree
 #include <bits/stdc++.h>
 using namespace std;
