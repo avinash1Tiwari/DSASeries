@@ -94,7 +94,7 @@ class heap{
         if(largest!=i)
         {
             swap(arr[largest],arr[i]);
-            heapify(arr,n,i);
+            heapify(arr,n,largest);
 
         }
     }
